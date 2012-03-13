@@ -1,0 +1,154 @@
+
+
+Processing SayController#hello (for 127.0.0.1 at 2012-03-13 21:39:25) [GET]
+  Session ID: 06d244c3579d3425f1fd24544cef6645
+  Parameters: {"action"=>"hello", "controller"=>"say"}
+Rendering say/hello
+Completed in 0.00600 (166 reqs/sec) | Rendering: 0.00300 (50%) | DB: 0.00000 (0%) | 200 OK [http://localhost/say/hello]
+
+
+Processing SayController#hello (for 127.0.0.1 at 2012-03-13 21:41:35) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%0ASGFzaHsABjoKQHVzZWR7AA%3D%3D--97ffb291fd88914fc5127c73b91b7c21cc432204
+  Parameters: {"action"=>"hello", "controller"=>"say"}
+Rendering say/hello
+Completed in 0.00600 (166 reqs/sec) | Rendering: 0.00300 (50%) | DB: 0.00000 (0%) | 200 OK [http://localhost/say/hello]
+
+
+Processing SayController#hello (for 127.0.0.1 at 2012-03-13 21:44:38) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%0ASGFzaHsABjoKQHVzZWR7AA%3D%3D--97ffb291fd88914fc5127c73b91b7c21cc432204
+  Parameters: {"action"=>"hello", "controller"=>"say"}
+Rendering say/hello
+Completed in 0.00600 (166 reqs/sec) | Rendering: 0.00300 (50%) | DB: 0.00000 (0%) | 200 OK [http://localhost/say/hello]
+
+
+Processing SayController#hello (for 127.0.0.1 at 2012-03-13 21:45:13) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%0ASGFzaHsABjoKQHVzZWR7AA%3D%3D--97ffb291fd88914fc5127c73b91b7c21cc432204
+  Parameters: {"action"=>"hello", "controller"=>"say"}
+Rendering say/hello
+Completed in 0.00500 (199 reqs/sec) | Rendering: 0.00300 (59%) | DB: 0.00000 (0%) | 200 OK [http://localhost/say/hello]
+
+
+Processing SayController#hello (for 127.0.0.1 at 2012-03-13 21:45:32) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%0ASGFzaHsABjoKQHVzZWR7AA%3D%3D--97ffb291fd88914fc5127c73b91b7c21cc432204
+  Parameters: {"action"=>"hello", "controller"=>"say"}
+Rendering say/hello
+Completed in 0.00500 (199 reqs/sec) | Rendering: 0.00300 (59%) | DB: 0.00000 (0%) | 200 OK [http://localhost/say/hello]
+
+
+Processing SayController#hello (for 127.0.0.1 at 2012-03-13 21:45:34) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%0ASGFzaHsABjoKQHVzZWR7AA%3D%3D--97ffb291fd88914fc5127c73b91b7c21cc432204
+  Parameters: {"action"=>"hello", "controller"=>"say"}
+Rendering say/hello
+Completed in 0.00400 (249 reqs/sec) | Rendering: 0.00100 (25%) | DB: 0.00000 (0%) | 200 OK [http://localhost/say/hello]
+
+
+Processing SayController#hello (for 127.0.0.1 at 2012-03-13 21:45:34) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%0ASGFzaHsABjoKQHVzZWR7AA%3D%3D--97ffb291fd88914fc5127c73b91b7c21cc432204
+  Parameters: {"action"=>"hello", "controller"=>"say"}
+Rendering say/hello
+Completed in 0.00400 (250 reqs/sec) | Rendering: 0.00100 (24%) | DB: 0.00000 (0%) | 200 OK [http://localhost/say/hello]
+
+
+Processing SayController#hello (for 127.0.0.1 at 2012-03-13 21:46:38) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%0ASGFzaHsABjoKQHVzZWR7AA%3D%3D--97ffb291fd88914fc5127c73b91b7c21cc432204
+  Parameters: {"action"=>"hello", "controller"=>"say"}
+Rendering say/hello
+Completed in 0.00500 (199 reqs/sec) | Rendering: 0.00300 (59%) | DB: 0.00000 (0%) | 200 OK [http://localhost/say/hello]
+
+
+Processing SayController#hello (for 127.0.0.1 at 2012-03-13 21:47:26) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%0ASGFzaHsABjoKQHVzZWR7AA%3D%3D--97ffb291fd88914fc5127c73b91b7c21cc432204
+  Parameters: {"action"=>"hello", "controller"=>"say"}
+Rendering say/hello
+Completed in 0.00600 (166 reqs/sec) | Rendering: 0.00300 (50%) | DB: 0.00000 (0%) | 200 OK [http://localhost/say/hello]
+
+
+Processing SayController#hello (for 127.0.0.1 at 2012-03-13 21:49:55) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%0ASGFzaHsABjoKQHVzZWR7AA%3D%3D--97ffb291fd88914fc5127c73b91b7c21cc432204
+  Parameters: {"action"=>"hello", "controller"=>"say"}
+Rendering say/hello
+Completed in 0.00500 (199 reqs/sec) | Rendering: 0.00300 (59%) | DB: 0.00000 (0%) | 200 OK [http://localhost/say/hello]
+
+
+Processing SayController#hello (for 127.0.0.1 at 2012-03-13 21:50:19) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%0ASGFzaHsABjoKQHVzZWR7AA%3D%3D--97ffb291fd88914fc5127c73b91b7c21cc432204
+  Parameters: {"action"=>"hello", "controller"=>"say"}
+Rendering say/hello
+Completed in 0.00400 (250 reqs/sec) | Rendering: 0.00200 (49%) | DB: 0.00000 (0%) | 200 OK [http://localhost/say/hello]
+
+
+Processing SayController#hello (for 127.0.0.1 at 2012-03-13 21:50:21) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%0ASGFzaHsABjoKQHVzZWR7AA%3D%3D--97ffb291fd88914fc5127c73b91b7c21cc432204
+  Parameters: {"action"=>"hello", "controller"=>"say"}
+Rendering say/hello
+Completed in 0.00400 (249 reqs/sec) | Rendering: 0.00100 (24%) | DB: 0.00000 (0%) | 200 OK [http://localhost/say/hello]
+
+
+Processing SayController#hello (for 127.0.0.1 at 2012-03-13 21:50:21) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%0ASGFzaHsABjoKQHVzZWR7AA%3D%3D--97ffb291fd88914fc5127c73b91b7c21cc432204
+  Parameters: {"action"=>"hello", "controller"=>"say"}
+Rendering say/hello
+Completed in 0.00300 (333 reqs/sec) | Rendering: 0.00100 (33%) | DB: 0.00000 (0%) | 200 OK [http://localhost/say/hello]
+
+
+Processing SayController#hello (for 127.0.0.1 at 2012-03-13 21:50:22) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%0ASGFzaHsABjoKQHVzZWR7AA%3D%3D--97ffb291fd88914fc5127c73b91b7c21cc432204
+  Parameters: {"action"=>"hello", "controller"=>"say"}
+Rendering say/hello
+Completed in 0.00300 (333 reqs/sec) | Rendering: 0.00100 (33%) | DB: 0.00000 (0%) | 200 OK [http://localhost/say/hello]
+
+
+Processing SayController#hello (for 127.0.0.1 at 2012-03-13 21:50:22) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%0ASGFzaHsABjoKQHVzZWR7AA%3D%3D--97ffb291fd88914fc5127c73b91b7c21cc432204
+  Parameters: {"action"=>"hello", "controller"=>"say"}
+Rendering say/hello
+Completed in 0.00300 (333 reqs/sec) | Rendering: 0.00100 (33%) | DB: 0.00000 (0%) | 200 OK [http://localhost/say/hello]
+
+
+Processing SayController#hello (for 127.0.0.1 at 2012-03-13 21:50:22) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%0ASGFzaHsABjoKQHVzZWR7AA%3D%3D--97ffb291fd88914fc5127c73b91b7c21cc432204
+  Parameters: {"action"=>"hello", "controller"=>"say"}
+Rendering say/hello
+Completed in 0.00400 (250 reqs/sec) | Rendering: 0.00200 (50%) | DB: 0.00000 (0%) | 200 OK [http://localhost/say/hello]
+
+
+Processing SayController#hello (for 127.0.0.1 at 2012-03-13 21:50:23) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%0ASGFzaHsABjoKQHVzZWR7AA%3D%3D--97ffb291fd88914fc5127c73b91b7c21cc432204
+  Parameters: {"action"=>"hello", "controller"=>"say"}
+Rendering say/hello
+Completed in 0.00400 (250 reqs/sec) | Rendering: 0.00100 (24%) | DB: 0.00000 (0%) | 200 OK [http://localhost/say/hello]
+
+
+Processing SayController#hello (for 127.0.0.1 at 2012-03-13 21:53:38) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%0ASGFzaHsABjoKQHVzZWR7AA%3D%3D--97ffb291fd88914fc5127c73b91b7c21cc432204
+  Parameters: {"action"=>"hello", "controller"=>"say"}
+Rendering say/hello
+Completed in 0.00600 (166 reqs/sec) | Rendering: 0.00300 (49%) | DB: 0.00000 (0%) | 200 OK [http://localhost/say/hello]
+
+
+Processing SayController#goodbye (for 127.0.0.1 at 2012-03-13 21:53:39) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%0ASGFzaHsABjoKQHVzZWR7AA%3D%3D--97ffb291fd88914fc5127c73b91b7c21cc432204
+  Parameters: {"action"=>"goodbye", "controller"=>"say"}
+Rendering say/goodbye
+Completed in 0.00600 (166 reqs/sec) | Rendering: 0.00300 (50%) | DB: 0.00000 (0%) | 200 OK [http://localhost/say/goodbye]
+
+
+Processing SayController#goodbye (for 127.0.0.1 at 2012-03-13 21:53:54) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%0ASGFzaHsABjoKQHVzZWR7AA%3D%3D--97ffb291fd88914fc5127c73b91b7c21cc432204
+  Parameters: {"action"=>"goodbye", "controller"=>"say"}
+Rendering say/goodbye
+Completed in 0.00600 (166 reqs/sec) | Rendering: 0.00400 (66%) | DB: 0.00000 (0%) | 200 OK [http://localhost/say/goodbye]
+
+
+Processing SayController#goodbye (for 127.0.0.1 at 2012-03-13 21:55:28) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%0ASGFzaHsABjoKQHVzZWR7AA%3D%3D--97ffb291fd88914fc5127c73b91b7c21cc432204
+  Parameters: {"action"=>"goodbye", "controller"=>"say"}
+Rendering say/goodbye
+Completed in 0.00500 (200 reqs/sec) | Rendering: 0.00300 (60%) | DB: 0.00000 (0%) | 200 OK [http://localhost/say/goodbye]
+
+
+Processing SayController#hello (for 127.0.0.1 at 2012-03-13 21:55:29) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%0ASGFzaHsABjoKQHVzZWR7AA%3D%3D--97ffb291fd88914fc5127c73b91b7c21cc432204
+  Parameters: {"action"=>"hello", "controller"=>"say"}
+Rendering say/hello
+Completed in 0.00400 (250 reqs/sec) | Rendering: 0.00200 (50%) | DB: 0.00000 (0%) | 200 OK [http://localhost/say/hello]
